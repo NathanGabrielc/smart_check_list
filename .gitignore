@@ -1,0 +1,23 @@
+# Dependências do Node
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Arquivos de build
+client/build/
+server/build/
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Configurações de IDE
+.vscode/
+.idea/
+
+# Sistema de arquivos
+.DS_Store
+Thumbs.db
+
+# Ambiente local
+.env
